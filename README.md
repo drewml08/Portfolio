@@ -1,4 +1,4 @@
-# Week 8 - Updated Portfolio
+# Week 16 - Updated Portfolio
 This repository is an updated version of my portfolio that I started on Week 2.
 
 ## Changes
@@ -8,7 +8,7 @@ This repository is an updated version of my portfolio that I started on Week 2.
 
 
 ## Screenshot
-![Screenshot](./assets/images/screenshot.png)
+![Screenshot](./assets/images/Recipe-Gram.png)
 
 ## Links
 * Repository: https://github.com/drewml08/Portfolio
